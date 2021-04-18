@@ -1,7 +1,15 @@
 # Signlingo
 
 ## What it does
-Signlingo aims to automate the process of teaching sign language and make it  more engaging by gamifying it. Our solution takes input from the webcam, and a custom PyTorch based Convolutional Neural Network determines if the user is showing the correct sign. 
+Signlingo aims to automate the process of teaching sign language and make it  more engaging by gamifying it. Our solution takes input from the webcam, and a custom PyTorch based Convolutional Neural Network determines if the user is showing the correct sign.  
+  
+## How to run  
+1. Clone the repository.
+2. Navigate to the cloned directory and run the below script on terminal directly.
+```
+python3 main.py
+```  
+3. Boom! You've got your tutor live  
 
 ## How we built it
 ![](https://raw.githubusercontent.com/Mainakdeb/signlingo/main/images/ASL_preprocessing_2.png)
