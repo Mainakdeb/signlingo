@@ -14,7 +14,8 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 
 ## Challenges we ran into
 1.  Finding the right training hyperparameters took more time that we expected.
-2. Making sure the network didnt overfit was challenging. Heavy image augmentation and dropout layers did the trick.
+2. Making sure the network didnt overfit was challenging. Heavy image augmentation and dropout layers did the trick. The diagram below represents the augmentation techniques we used.
+![](https://raw.githubusercontent.com/Mainakdeb/signlingo/main/images/ASL_augmentation.png)
 3. Getting the GUI to work in harmony with the script was tricky.
 
 ## Accomplishments that we're proud of
@@ -25,5 +26,3 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 1. Learned the importance of inference time when dealing with trained neural networks, specially for real-time applications.
 3. Having some sort of reward mechanism is important to keep the user engaged, hence we decided to add the game element to it.
 2. We tested the app multiple times,  and unknowingly taught sign language  to ourselves :)
-
-## What's next for Signlingo
