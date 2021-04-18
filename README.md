@@ -25,4 +25,10 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 ## What we learned
 1. Learned the importance of inference time when dealing with trained neural networks, specially for real-time applications.
 3. Having some sort of reward mechanism is important to keep the user engaged, hence we decided to add the game element to it.
-2. We tested the app multiple times,  and unknowingly taught sign language  to ourselves :)
+2. We tested the app multiple times,  and unknowingly taught sign language  to ourselves :)  
+
+## What we used  
+1. PyTorch
+2. OpenCV
+3. Tinker (UI)
+4. Python threads
