@@ -30,5 +30,5 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 ## What we used  
 1. PyTorch
 2. OpenCV
-3. Tinker (UI)
+3. Tkinter (UI)
 4. Python threads
