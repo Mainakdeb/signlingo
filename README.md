@@ -10,7 +10,13 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 3. Defined a smaller custom network and trained it.
 4. Once the accuracy was good enough on the validation dataset, we tested the performance on some unseen images.
 5. Then we tested it out with live webcam feed, and it worked!
-6. Added a GUI for ease-of use, and also a level based system to make the process more engaging.
+6. Added a GUI for ease-of use, and also a level based system to make the process more engaging.  
+
+## Techstack  
+1. PyTorch
+2. OpenCV
+3. Tkinter (UI)
+4. Python threads
 
 ## Challenges we ran into
 1.  Finding the right training hyperparameters took more time that we expected.
@@ -27,8 +33,4 @@ Signlingo aims to automate the process of teaching sign language and make it  mo
 3. Having some sort of reward mechanism is important to keep the user engaged, hence we decided to add the game element to it.
 2. We tested the app multiple times,  and unknowingly taught sign language  to ourselves :)  
 
-## What we used  
-1. PyTorch
-2. OpenCV
-3. Tkinter (UI)
-4. Python threads
+
