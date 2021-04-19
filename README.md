@@ -1,7 +1,12 @@
 # Signlingo
+[Check it out on Devpost](https://devpost.com/software/signlingo-le9jr2)
 
 ## What it does
-Signlingo aims to automate the process of teaching sign language and make it  more engaging by gamifying it. Our solution takes input from the webcam, and a custom PyTorch based Convolutional Neural Network determines if the user is showing the correct sign.  
+Signlingo aims to automate the process of teaching sign language and make it more engaging by gamifying it. The number of sign-language teachers out there is very low compared to the number of learners, moreover they usually charge money for sessions, our solution attemtpts to make the process of learning sign language accessible to everyone for free.
+
+Our solution takes input from the webcam, and a custom PyTorch based Convolutional Neural Network determines if the user is showing the correct sign.
+
+
   
 ## How to run  
 1. Clone the repository.
